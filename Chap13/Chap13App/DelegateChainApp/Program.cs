@@ -21,6 +21,10 @@ namespace DelegateChainApp
 
 
             allCalc(10, 5);
+
+            Console.WriteLine("곱셈 메서드 제거");
+            allCalc -= Multiple;
+            allCalc(10, 5);
         }
     }
 }
