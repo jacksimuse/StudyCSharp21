@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWindowApp", "MyWindowApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingControlsApp", "UsingControlsApp\UsingControlsApp.csproj", "{18F2E4CC-25D3-48A9-9068-70E1241EA6A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIleCopyApp", "FIleCopyAPp\FIleCopyApp.csproj", "{57C61ED5-8544-4844-9469-B35509A8D8B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{18F2E4CC-25D3-48A9-9068-70E1241EA6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18F2E4CC-25D3-48A9-9068-70E1241EA6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F2E4CC-25D3-48A9-9068-70E1241EA6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C61ED5-8544-4844-9469-B35509A8D8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C61ED5-8544-4844-9469-B35509A8D8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C61ED5-8544-4844-9469-B35509A8D8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C61ED5-8544-4844-9469-B35509A8D8B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
